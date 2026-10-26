@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nukultalwar.dev/sitemap.xml
